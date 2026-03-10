@@ -1,10 +1,10 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
+using BankAccountNS;
 
-namespace BankkTests
+namespace BankTests
 {
     [TestClass]
-    public class UnitTest1
+    public class BankAccountTests
     {
         [TestMethod]
         public void TestMethod1()
@@ -12,3 +12,4 @@ namespace BankkTests
         }
     }
 }
+
